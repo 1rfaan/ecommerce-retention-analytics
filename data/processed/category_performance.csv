@@ -1,21 +1,73 @@
-category,total_orders,unique_customers,total_revenue,avg_item_price,avg_freight,revenue_share_pct
-Health Beauty,8647,8647,1233131.72,130.28,18.91,9.33
-Watches Gifts,5495,5495,1166176.98,199.04,16.75,8.82
-Bed Bath Table,9272,9272,1023434.76,93.44,18.42,7.74
-Sports Leisure,7530,7530,954852.55,113.25,19.38,7.22
-Computers Accessories,6530,6530,888724.61,116.26,18.84,6.72
-Furniture Decor,6307,6307,711927.69,87.25,20.64,5.38
-Housewares,5743,5743,615628.69,90.6,21.01,4.66
-Cool Stuff,3559,3559,610204.1,164.12,21.91,4.62
-Auto,3810,3810,578966.65,139.85,21.86,4.38
-Toys,3804,3804,471286.48,116.94,18.8,3.56
-Garden Tools,3448,3448,470495.28,110.24,22.65,3.56
-Baby,2809,2809,400421.84,134.28,22.24,3.03
-Perfumery,3086,3086,390144.65,116.81,15.88,2.95
-Telephony,4093,4093,309860.23,69.95,15.65,2.34
-Office Furniture,1254,1254,268154.31,160.76,40.2,2.03
-Stationery,2264,2264,223788.69,90.75,18.57,1.69
-Computers,177,177,218684.14,1098.92,48.57,1.65
-Pet Shop,1688,1688,211695.64,110.03,20.23,1.6
-Musical Instruments,611,611,184315.74,283.13,27.45,1.39
-Small Appliances,609,609,182754.12,277.74,23.33,1.38
+category,total_orders,total_revenue,avg_price,avg_freight
+Health Beauty,8647,1233131.72,130.28,18.91
+Watches Gifts,5495,1166176.98,199.04,16.75
+Bed Bath Table,9272,1023434.76,93.44,18.42
+Sports Leisure,7530,954852.55,113.25,19.38
+Computers Accessories,6530,888724.61,116.26,18.84
+Furniture Decor,6307,711927.69,87.25,20.64
+Housewares,5743,615628.69,90.6,21.01
+Cool Stuff,3559,610204.1,164.12,21.91
+Auto,3810,578966.65,139.85,21.86
+Toys,3804,471286.48,116.94,18.8
+Garden Tools,3448,470495.28,110.24,22.65
+Baby,2809,400421.84,134.28,22.24
+Perfumery,3086,390144.65,116.81,15.88
+Telephony,4093,309860.23,69.95,15.65
+Office Furniture,1254,268154.31,160.76,40.2
+Stationery,2264,223788.69,90.75,18.57
+Computers,177,218684.14,1098.92,48.57
+Pet Shop,1688,211695.64,110.03,20.23
+Musical Instruments,611,184315.74,283.13,27.45
+Small Appliances,609,182754.12,277.74,23.33
+Unknown,1412,175967.21,112.87,17.57
+Electronics,2517,155043.93,56.81,16.74
+Fashion Bags Accessories,1820,149329.39,75.23,15.39
+Consoles Games,1018,148003.37,135.91,17.53
+Construction Tools Construction,736,142108.49,155.14,22.13
+Luggage Accessories,1019,138701.63,128.79,27.93
+Home Appliances 2,227,107953.95,467.33,44.39
+Home Construction,483,81407.57,136.59,22.84
+Home Appliances,747,78832.48,104.55,19.19
+Agro Industry And Commerce,177,70566.1,342.55,27.37
+Furniture Living Room,414,67350.7,136.06,35.75
+Home Confort,392,58008.45,135.22,19.65
+Fixed Telephony,212,55315.21,216.92,17.65
+Air Conditioning,246,53323.56,184.51,22.6
+Audio,348,50570.6,139.7,15.7
+Small Appliances Home Oven And Coffee,72,46589.56,638.21,36.39
+Kitchen Dining Laundry Garden Furniture,241,45531.98,166.18,42.12
+Books General Interest,496,45302.15,84.36,16.54
+Construction Tools Lights,242,39957.0,132.75,24.88
+Construction Tools Safety,159,38773.22,211.88,20.39
+Industry Commerce And Business,232,38498.81,145.28,28.61
+Food,441,28731.15,57.58,14.16
+Market Place,274,27795.77,91.13,17.44
+Costruction Tools Garden,190,25096.28,108.17,22.36
+Art,195,23657.3,120.09,19.43
+Fashion Shoes,235,23001.46,89.5,18.73
+Drinks,287,21529.84,59.64,15.07
+Signaling And Security,138,21315.05,108.2,32.88
+Furniture Bedroom,90,19051.8,184.97,42.01
+Books Technical,256,18702.23,71.11,15.97
+Costruction Tools Tools,97,15903.95,154.41,19.71
+Food Drink,221,14942.88,55.55,16.34
+Fashion Male Clothing,106,10452.33,83.62,16.5
+Fashion Underwear Beach,117,9305.95,73.28,14.6
+Christmas Supplies,125,8737.84,58.25,21.27
+Tablets Printing Image,79,7528.41,90.7,14.77
+Cine Photo,63,6674.47,95.35,17.54
+Music,38,6034.35,158.8,18.17
+Dvds Blu Ray,56,4542.59,74.47,20.12
+Party Supplies,38,4465.19,106.31,19.53
+Books Imported,50,4418.86,77.52,12.84
+Furniture Mattress And Upholstery,37,4323.38,116.85,42.74
+Fashio Female Clothing,36,2634.94,58.55,12.97
+Fashion Sport,26,2094.52,72.22,19.41
+La Cuisine,13,2054.99,146.78,23.82
+Arts And Craftmanship,23,1814.01,75.58,15.42
+Diapers And Hygiene,25,1500.79,40.56,14.74
+Flowers,29,1110.04,33.64,14.81
+Home Comfort 2,24,760.27,25.34,13.68
+Cds Dvds Musicals,12,730.0,52.14,16.07
+Fashion Childrens Clothes,7,519.95,74.28,11.25
+Security And Services,2,283.29,141.64,20.61
